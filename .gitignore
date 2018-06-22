@@ -95,5 +95,5 @@ fabric.properties
 .idea/httpRequests
 
 # Custom saya
-.idea/
+.idea/*
 JetBrains.gitignore
